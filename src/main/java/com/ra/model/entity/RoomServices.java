@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Data
 @Builder
-public class RoomService{
+public class RoomServices {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;

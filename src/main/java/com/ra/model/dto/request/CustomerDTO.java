@@ -1,4 +1,4 @@
-package com.ra.model.dto;
+package com.ra.model.dto.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -16,5 +16,4 @@ public class CustomerDTO {
     private String email;
     private String password;
     private String phoneNumber;
-    private Role role;
 }

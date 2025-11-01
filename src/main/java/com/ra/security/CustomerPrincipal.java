@@ -1,4 +1,4 @@
-package com.ra.security.jwt;
+package com.ra.security;
 
 import com.ra.model.entity.Customer;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.ra.security.jwt;
+package com.ra.security;
 
 import com.ra.model.entity.Customer;
 import com.ra.service.CustomerService;
@@ -10,7 +10,6 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
